@@ -1,0 +1,1 @@
+{"$schema":"https://json.schemastore.org/claude-code-marketplace.json","name":"lhg-plugs","owner":{"name":"刘洪光"},"plugins":[{"description":"财务建模专家：假设→三表搭建→勾稽校验→敏感性分析，确定性脚本做勾稽硬校验","name":"lhg-finmodel","source":"./"}]}
